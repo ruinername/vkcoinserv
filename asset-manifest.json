@@ -1,16 +1,15 @@
 {
-  "main.css": "/vkcoinserv/static/css/main.d3fdcb97.chunk.css",
-  "main.js": "/vkcoinserv/static/js/main.217a7cdb.chunk.js",
-  "main.js.map": "/vkcoinserv/static/js/main.217a7cdb.chunk.js.map",
+  "main.js": "/vkcoinserv/static/js/main.5942a798.chunk.js",
+  "main.js.map": "/vkcoinserv/static/js/main.5942a798.chunk.js.map",
   "runtime~main.js": "/vkcoinserv/static/js/runtime~main.1f6c1092.js",
   "runtime~main.js.map": "/vkcoinserv/static/js/runtime~main.1f6c1092.js.map",
   "static/css/2.4f3eb583.chunk.css": "/vkcoinserv/static/css/2.4f3eb583.chunk.css",
-  "static/js/2.f3f15c0d.chunk.js": "/vkcoinserv/static/js/2.f3f15c0d.chunk.js",
-  "static/js/2.f3f15c0d.chunk.js.map": "/vkcoinserv/static/js/2.f3f15c0d.chunk.js.map",
+  "static/js/2.e3fd0759.chunk.js": "/vkcoinserv/static/js/2.e3fd0759.chunk.js",
+  "static/js/2.e3fd0759.chunk.js.map": "/vkcoinserv/static/js/2.e3fd0759.chunk.js.map",
   "index.html": "/vkcoinserv/index.html",
-  "precache-manifest.3b153927d5f8fc6e20ffaee2a05ae456.js": "/vkcoinserv/precache-manifest.3b153927d5f8fc6e20ffaee2a05ae456.js",
+  "precache-manifest.de189d239563a530f5c3f4a2dbd36760.js": "/vkcoinserv/precache-manifest.de189d239563a530f5c3f4a2dbd36760.js",
   "service-worker.js": "/vkcoinserv/service-worker.js",
   "static/css/2.4f3eb583.chunk.css.map": "/vkcoinserv/static/css/2.4f3eb583.chunk.css.map",
-  "static/css/main.d3fdcb97.chunk.css.map": "/vkcoinserv/static/css/main.d3fdcb97.chunk.css.map",
-  "static/media/persik.png": "/vkcoinserv/static/media/persik.4e1ec840.png"
+  "static/media/3.jpg": "/vkcoinserv/static/media/3.3a78f177.jpg",
+  "static/media/Screenshot_2.png": "/vkcoinserv/static/media/Screenshot_2.54c69527.png"
 }
